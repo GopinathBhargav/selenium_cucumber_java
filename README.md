@@ -30,7 +30,8 @@ Once the execution is completed cucumber reports and extent HTML reports will be
 
 2. In order to view Spark extent HTML reports, once execution is completed, there will be a folder named test-output directory under project directory
 Inside test-output directory, there will be 2 sub folders and a screenshot of a failed test case will be stores as a png extension
+
  a. Folder1: Pdfreport --> There will be a pdf report that will be generated
  b. Folder2: SparkReport --> There will be a .html file report that will be generated.
 
-Note: Knowingly failed a test case in scenario 1 in order to verify teh screnshot in test report.
+Note: Knowingly failed a test case in scenario 1 in order to verify the screnshot in test report.
